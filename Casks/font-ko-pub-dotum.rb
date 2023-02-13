@@ -10,4 +10,3 @@ cask "font-ko-pub-dotum" do
   font "KoPub Dotum_Pro Light.otf"
   font "KoPub Dotum_Pro Medium.otf"
 end
-
